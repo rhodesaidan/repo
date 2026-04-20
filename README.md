@@ -107,8 +107,7 @@ Two common strategies for attenuating difficulties would be implementing dynamic
 
 ---
 
-*Answer Q2b here.*
-
+Difficulty attenuation is able to support accessibility and diverse player experience through its ability in creating an inclusive environment for all types of players, regardless of their skill level and experience. It does this through analysing various aspects such as speed, health and the reaction time of the player. Through this real-time process, the game is able to adjust its difficulty dynamically in order to engage more with the player's experience and skill, thus constructing an environment specifially tailored towards the player's interactions. 
 
 ---
 
@@ -118,8 +117,7 @@ How can game design decisions that shape challenge over time support or disrupt 
 
 ---
 
-*Answer Q2c here.*
-
+Game design decisions that shape challenge over time can act as a catalyst in disrupting the flow of a game as challenge can vary depending on the skill and experience of the player. This may cause frustration or boredom, as sudden spikes in the the game's difficulty can spoil the pacing of the game losing the player's interest. However, challenge can also support time flow through structuring the game gradually in accord to the player's skill, where it is able to maintain both player engagement and a feeling of progression. Nonetheless, game design decisions should keep the player engaged with the narrative while also giving a demanding and immersive experience. 
 
 ---
 
