@@ -133,18 +133,16 @@ Identify three mechanics present in Bubble Bees and describe each mechanic (writ
 
 ---
 
-*Answer Q3a here.*
-
-*Mechanic 1:*
-
+*Mechanic 1: Movement
+The player can move the wand across the screen in order to position itself near a bee. 
 
 
-*Mechanic 2:*
+*Mechanic 2:* Bubble Creation (Click and Hold)
+The player can hold the mouse button to create and release a bubble in an attempt to entrap a bee in it. 
 
 
-
-*Mechanic 3:*
-
+*Mechanic 3:* Bubble Release (Timing action)
+The player can release the mouse button in order to correctly time the capturing of a bee.
 
 ---
 
