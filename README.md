@@ -98,8 +98,7 @@ Identify and describe two strategies for attenuating difficulty (2-3 sentences).
 
 ---
 
-*Answer Q2a here.*
-
+Two common strategies for attenuating difficulties would be implementing dynamic difficulty adjustment (DDA) and checkpoint systems to further structure the game into its integrated segments. Dynamic difficulty adjustment is vital as it automatically modifies and tailors the difficulty of the game in comparison to the player's performance in order to provide an appropriate level of both challenge and fun, through analysing metrics like player health and completion time. On the other hand, checkpoint systems further lay out the game through recording the player's position and progress, using this to structure the game in segments to reduce the penalty of failure if a player is eliminated. 
 
 ---
 
