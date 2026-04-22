@@ -143,7 +143,7 @@ The player can hold the mouse button to create and release a bubble in an attemp
 
 *Mechanic 3:* Bubble Release (Timing action)
 The player can release the mouse button in order to correctly time the capturing of a bee.
-
+ 
 ---
 
 
