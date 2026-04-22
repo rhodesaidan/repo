@@ -158,7 +158,7 @@ Watch the following gameplay videos which show two different approaches to playi
 *Answer Q3bi here.*
 
 *Gameplay Video 1:*
-The player keeps their wand at the left side of the screen, as this is where all the bees spawn, allowing faster reaction time and higher efficiency. The player also attempts to pick out one bee at a time to maintain accuracy and control, rather than risk of failure by attempting to pick out two bees in one bubble. 
+The player keeps their wand at the left side of the screen, as this is where all the bees spawn, allowing faster reaction time and higher efficiency. The player also attempts to pick out bees individually to maintain accuracy and control, rather than risking failure by attempting to pick out two bees in one bubble. 
 
 
 
@@ -171,19 +171,21 @@ The player keeps their wand in the middle to allow for more flexible reactions t
 #### 3bii. Explain why the difference in dynamics result in higher scoring outcomes in one video than the other, focusing on how the game's mechanics make this possible (2-3 sentences). [4 marks]
 ---
 
-*Answer Q3bii here.*
-
+The difference in dynamics is made possible from the game's mechanics, as it prioritises a high-risk high reward strategy in order to prevail.  In Strategy 1, the player aims to pick out bees individually as a safe option, leading to a shorter game and lower score. In Strategy 2 however, the player takes their time waiting for bees to bundle up in an attempt to capture them in one bubble, which increases both the score and duration of the game. 
 
 ---
 
 ### 3c. Player Experience (Aesthetics) (6 marks)
 Using the Taxonomy of Fun discussed in the unit, identify:
   *	one shared player experience - a player experience that could be felt in both gameplay videos. [1 mark]
-  
+Ritual 
   *	one unique player experience - a player experience likely to be felt in only one of the videos. [1 mark]
+Sensation
 
 In your answer:
   *	explain how the shared player experience is supported by the mechanics of Bubble Bees (1-2 sentences). [2 marks]
+    
+Ritual is supported by the mechanics of Bubble Bees as both gameplay videos involve the same repeating actions, creating a consistent pattern and strategy. 
 
   *	explain how the different dynamics present in the two videos contribute to the difference in player experience, focusing on the unique player experience you identified (1-2 sentences). [2 marks]
 
@@ -191,8 +193,7 @@ You may refer to subtypes within the same experience category if appropriate.
 
 ---
 
-*Answer Q3c here.*
-
+ Strategy 2 shows the player strategically placing their wand near synced bees in order to gather up more points, creating a deliberate rhythm enhancing the ritualistic loop of capturing bees. On the other hand, strategy 1 shows prioritises accuracy and control over the bees rather than maximising score and duration, perhaps as a form of sensation rather than competitively playing the game.
 
 ---
 
@@ -212,7 +213,9 @@ In your answer:
 
 ---
 
-*Answer Q3d here.*
+A multiplier or streak would certainly be a valid idea as it would keep the intenseness of the game going and make it a better experience to play. An example of this would be if the player consecutively gets bees in their bubbles, there could be an increased score multiplier to keep the pattern going. 
+My chosen change would affect the support for the element of challenge, making it much challenging for those who find the game easier while also keeping the intensity going. This also adds on unpredictability and makes the game more understandable through mastery and performance rather than basic luck and rudimentary instructions.
+This change would increase the challenge experience in a controlled environment as it would make the players test their skill but also gives them clearer opportunities to succeed and prevail against the time limit. It would also reduce the frustration of players in attempting ritualistic speedrun strategies as it would make the feeling more intentional and strategic rather than a purely reactive emotion. Thus, the change would redefine the experience of challenge giving strategy more intent and purpose. 
 
 
 ---
