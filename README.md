@@ -158,12 +158,12 @@ Watch the following gameplay videos which show two different approaches to playi
 *Answer Q3bi here.*
 
 *Gameplay Video 1:*
-
+The player keeps their wand at the left side of the screen, as this is where all the bees spawn, allowing faster reaction time and higher efficiency. The player also attempts to pick out one bee at a time to maintain accuracy and control, rather than risk of failure by attempting to pick out two bees in one bubble. 
 
 
 
 *Gameplay Video 2:*
-
+The player keeps their wand in the middle to allow for more flexible reactions to different bee speeds. The player often waits for bees to sync or cluster with each other in order to capture them in one bundle, extending the time frame and maximimising the score. 
 
 ---
 
