@@ -155,7 +155,6 @@ Watch the following gameplay videos which show two different approaches to playi
 #### 3bi. For each video, identify and describe the key dynamic(s) present during play, writing 1-2 sentences for each. [4 marks total]
 ---
 
-*Answer Q3bi here.*
 
 *Gameplay Video 1:*
 The player keeps their wand at the left side of the screen, as this is where all the bees spawn, allowing faster reaction time and higher efficiency. The player also attempts to pick out bees individually to maintain accuracy and control, rather than risking failure by attempting to pick out two bees in one bubble. 
